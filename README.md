@@ -6,6 +6,9 @@ nFouriere est un plugin conçu pour le jeu Nova-Life, permettant aux joueurs ét
 - Ajout d'une fonctionnalité de "batterie de secours" pour démarrer des véhicules.
 - Le véhicule peut être démarré temporairement, avec une période de 1 minute avant que la batterie cesse de fonctionner.
 
+## 📖 Comment l'utiliser
+Rendez-vous dans le panel de Modkit (touche `P` de base) en étant dans une entreprise de type "fourrière", vous verrez alors l'option de batterie de secours.
+
 ## 🔧 Installation
 1. Téléchargez le fichier `nFourriere.dll` depuis la page des releases de ce dépôt.
 2. Placez le fichier `nFourriere.dll` dans le dossier `Plugins` de votre serveur Nova-Life.
