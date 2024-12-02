@@ -9,7 +9,7 @@ nFourriere est un plugin conçu pour le jeu Nova-Life, permettant aux joueurs é
 ## 📖 Comment l'utiliser
 Rendez-vous dans le panel de Modkit (touche `P` de base) en étant dans une entreprise de type "fourrière", vous verrez alors l'option de batterie de secours.
 
-## 🔧 Installation
+## 📥 Installation
 1. Téléchargez le fichier `nFourriere.dll` depuis la page des releases de ce dépôt.
 2. Placez le fichier `nFourriere.dll` dans le dossier `Plugins` de votre serveur Nova-Life.
 3. Assurez-vous que le serveur utilise les version de ModKit et de AAMenu requises pour que le plugin fonctionne correctement.
