@@ -1,4 +1,4 @@
-![Plugins - Vignettes discord (1)](https://github.com/user-attachments/assets/03ed1330-52ad-46cc-9e14-2fcf97eb443b)
+![Nova + (1)](https://github.com/user-attachments/assets/bc1701d9-ef5b-41ed-a520-f0b477ad690f)
 # 📁 NFourriere - Plugin de fourrière pour Nova-Life
 NFourriere est un plugin conçu pour le jeu Nova-Life, permettant aux joueurs étant dans une entreprise de fourrière de démarrer un véhicule de manière temporaire grâce à une "batterie de secours".
 
